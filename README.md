@@ -5,8 +5,8 @@ modules for lab-specific packages on stampede
 
 on your stampede account, edit ~/.modules and add the following:
 
-module use /work/01329/poldrack/stampede-modules
-module load poldracklab-env
+<pre>module use /work/01329/poldrack/stampede-modules
+module load poldracklab-env</pre>
 
 ## Adding a new python module
 
