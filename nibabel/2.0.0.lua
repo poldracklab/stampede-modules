@@ -1,0 +1,1 @@
+append_path('PYTHONPATH','/work/01329/poldrack/python_modules/nibabel-2.0.0/lib/python2.7/site-packages')
